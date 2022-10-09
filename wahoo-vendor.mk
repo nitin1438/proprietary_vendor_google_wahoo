@@ -851,7 +851,9 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     wahoo_gfxdrv \
+    VZWAPNLib \
     AmbientSensePrebuilt \
+    AppDirectedSMSService \
     CarrierSettings \
     CarrierWifi \
     ConnMO \
